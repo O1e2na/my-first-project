@@ -1,0 +1,12 @@
+body {
+    font-family: "Inter", sans-serif;
+    color: #434455;
+    background-color: #FFF;
+    }
+    
+    a {
+    text-decoration: none;
+    }
+   ul, li { 
+    list-style: none;
+    }
